@@ -33,7 +33,7 @@ Seçili kart vurgusu:
 
 ![Seçili Kart](readme_image/image4.png)
 
-> Görsellerin sıralamasını kendinize göre değiştirebilirsiniz.
+> index.html çalıştırıp +2000 workflows'lara erişebilirsiniz.
 
 ## Kurulum & Kullanım
 
