@@ -1,6 +1,6 @@
 # n8n Workflow Repository
 
-![Ana Sayfa](./image.png)
+![Ana Sayfa](readme_image/image.png)
 
 Bu proje, n8n için modern, arayüzü zengin ve kullanımı kolay bir workflow arşividir. Tüm arayüz ve kodlar **BUCKY** tarafından tasarlanmıştır.
 
@@ -13,26 +13,25 @@ Bu proje, n8n için modern, arayüzü zengin ve kullanımı kolay bir workflow a
 - **JSON Kopyalama**: Workflow dosyasını panoya kopyalayın.
 - **Kısa Önizleme**: Workflow'un ilk satırlarını hızlıca görüntüleyin.
 - **Paylaşım Linki**: Her workflow için paylaşılabilir link oluşturun.
-- **Karanlık/aydınlık mod (isteğe bağlı)**
 - **Kullanıcı dostu detay modalları**
 
 ## Ekran Görüntüleri
 
 Ana sayfa:
 
-![Ana Sayfa](./image.png)
+![Ana Sayfa](readme_image/image.png)
 
 Favorilerim sayfası:
 
-![Favorilerim](./image2.png)
+![Favorilerim](readme_image/image2.png)
 
 Arama ve filtreleme:
 
-![Arama ve Filtreleme](./image3.png)
+![Arama ve Filtreleme](readme_image/image3.png)
 
 Seçili kart vurgusu:
 
-![Seçili Kart](./image4.png)
+![Seçili Kart](readme_image/image4.png)
 
 > Görsellerin sıralamasını kendinize göre değiştirebilirsiniz.
 
